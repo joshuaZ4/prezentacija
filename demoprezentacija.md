@@ -181,12 +181,16 @@ Plaćeni planovi:
 
 ## Osobni osvrt
 
-discord je besplatna aplikacija, korisna za 
+Discord je besplatna aplikacija, korisna za sve od zabave i hobija do rješavanja problema i poslovnih sastanaka.
+
+Osobno preporučavam Discord, osim ako želite slat videe, a nemate Nitro.
+
+---
+
+# Reference:
+
+https://discord.com/creators/what-is-discord
+
+https://discord.com/safety/360044149331-what-is-discord
 
 
-
-Preporuke za korištenje.
-
-Reference:
-
-Linkovi na korištene izvore (dokumentacija, vodiči, članci).
