@@ -26,19 +26,21 @@ Discord je način na koji IT stručnjaci, ali i bilo koja druga grupa ljudi, mo�
 ## 1. Ključne funkcionalnosti Discorda:
 
 ### 1. Razgovori u realnom vremenu
--Tekstualni kanali
 
--zvučni kanali
+- Tekstualni kanali
 
--Video pozivi i Screen Sharing
+- zvučni kanali
+
+- Video pozivi i Screen Sharing
 
 ### 2. Serveri i kanali
--Kreiranje servera:
+
+- Kreiranje servera:
 
 Serveri su vrste grupa u kojima veliki broj ljudi može komunicirati međusobno
 
  
--Organizacija kanala:
+- Organizacija kanala:
 
 Kanali su sekcije u serverima koje možemo nazvati kako želimo, služe kako bi serveri izgledali urednije, te kako bi se bilo lakše snači, 
 npr. kanal za kodiranje
@@ -46,7 +48,8 @@ npr. kanal za kodiranje
 ---
 
 ### 3. Botovi
--Discord podržava integraciju botova, koji mogu automatski obavljati različite zadatke, kao što su moderacija, sviranje muzike, obaveštavanje o događajima ili sprovodjenje anketa.
+
+- Discord podržava integraciju botova, koji mogu automatski obavljati različite zadatke, kao što su moderacija, sviranje muzike, obaveštavanje o događajima ili sprovodjenje anketa.
 
 ![](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/discord-bots1.jpg)
 
@@ -55,6 +58,7 @@ npr. kanal za kodiranje
 ![](https://support.discord.com/hc/article_attachments/4471411989015)
 
 ## 2. Praktični primjeri korištenja:
+
 1.  Igračke zajednice i timovi
 2.  Obrazovanje i učenje
 3.  Radne i profesionalne zajednice
@@ -103,45 +107,45 @@ Prijava ili registracija:
 
 ### 1. Besplatno korištenje
 
-Osnovne funkcionalnosti: 
+*Osnovne funkcionalnosti:*
 
--Discord je besplatan za korištenje, a većina njegovih osnovnih funkcija kao što su chat, glasovni pozivi i video pozivi, kao i stvaranje servera, dostupni su bez 
+- Discord je besplatan za korištenje, a većina njegovih osnovnih funkcija kao što su chat, glasovni pozivi i video pozivi, kao i stvaranje servera, dostupni su bez 
  ikakvih naknada.
 
-Pretplata (Discord Nitro): 
+*Pretplata (Discord Nitro):*
 
--Postoji opcija za nadogradnju na Discord Nitro, koja donosi dodatne značajke poput poboljšanih emotikona, povećanih limita za veličinu datoteka (do 100 MB za 
+- Postoji opcija za nadogradnju na Discord Nitro, koja donosi dodatne značajke poput poboljšanih emotikona, povećanih limita za veličinu datoteka (do 100 MB za 
  obične korisnike, do 500 MB s Nitro pretplatom), bolju kvalitetu video poziva, i još mnogo toga.
 
 ### 2. Svestranost i prilagodljivost
 
-Dobar za različite potrebe:
+*Dobar za različite potrebe:*
 
--Discord je prilagodljiv za različite vrste zajednica i upotrebe – od gaming zajednica, preko profesionalnih timova, pa sve do hobista i kreativaca. Možeš 
+- Discord je prilagodljiv za različite vrste zajednica i upotrebe – od gaming zajednica, preko profesionalnih timova, pa sve do hobista i kreativaca. Možeš 
  postaviti servere za razgovore, suradnju, edukaciju, ili čak kao privatni chat za prijatelje.
 
-Razni kanali: 
+*Razni kanali:* 
 
--Na svakom serveru možeš stvoriti različite tekstualne i glasovne kanale za specifične teme, čime se organizira komunikacija i omogućava bolja kontrola sadržaja.
+- Na svakom serveru možeš stvoriti različite tekstualne i glasovne kanale za specifične teme, čime se organizira komunikacija i omogućava bolja kontrola sadržaja.
 
 ---
 
 ### 3. Zajednice i suradnja
 
-Velike zajednice:
+*Velike zajednice:*
 
--Na Discordu se možeš pridružiti javnim ili privatnim serverima koji okupljaju tisuće članova. Ovo je idealno za razmjenu ideja, učenje, suradnju ili jednostavno 
+- Na Discordu se možeš pridružiti javnim ili privatnim serverima koji okupljaju tisuće članova. Ovo je idealno za razmjenu ideja, učenje, suradnju ili jednostavno 
  za zabavu.
 
 ### 4. Integracija s drugim aplikacijama
 
-Botovi: 
+*Botovi:* 
 
--Discord podržava različite botove koji mogu automatski obavljati zadatke, kao što su moderiranje, automatska obavijest o novim objavama, igre, glazba i slično.
+- Discord podržava različite botove koji mogu automatski obavljati zadatke, kao što su moderiranje, automatska obavijest o novim objavama, igre, glazba i slično.
 
-Integracije: 
+*Integracije:* 
 
--Integrira se s raznim aplikacijama poput Spotify, Twitch, YouTube, Steam i mnogim drugim, omogućujući lakše dijeljenje sadržaja i bolju povezanost s vanjskim platformama.
+- Integrira se s raznim aplikacijama poput Spotify, Twitch, YouTube, Steam i mnogim drugim, omogućujući lakše dijeljenje sadržaja i bolju povezanost s vanjskim platformama.
 
 ---
 
@@ -149,51 +153,51 @@ Integracije:
 
 ### 1. Pretrpanost sučelja
 
-Mnoge funkcije mogu biti zbunjujuće: 
+*Mnoge funkcije mogu biti zbunjujuće:* 
 
--Za nove korisnike, veliki broj funkcionalnosti, kanala, opcija i postavki može biti zbunjujući, posebno na većim serverima s velikim brojem članova.
+- Za nove korisnike, veliki broj funkcionalnosti, kanala, opcija i postavki može biti zbunjujući, posebno na većim serverima s velikim brojem članova.
 
-Pretrpani chatovi: 
+*Pretrpani chatovi:* 
 
--Ako je server vrlo aktivan, tekstualni chatovi mogu brzo postati pretrpani, što otežava praćenje poruka i diskusija.
+- Ako je server vrlo aktivan, tekstualni chatovi mogu brzo postati pretrpani, što otežava praćenje poruka i diskusija.
 
 ### 2. Ovisnost o internetu
 
-Internet veza: 
+*Internet veza:* 
 
--Discord je potpuno online platforma, pa ovisi o stabilnoj internetskoj vezi. Ako dođe do problema s internetom, svi glasovni pozivi, video pozivi i chat neće funkcionirati.
+- Discord je potpuno online platforma, pa ovisi o stabilnoj internetskoj vezi. Ako dođe do problema s internetom, svi glasovni pozivi, video pozivi i chat neće funkcionirati.
 
-Ne može se koristiti offline: 
+*Ne može se koristiti offline:* 
 
--Nema mogućnosti za korištenje Discorda u offline načinu rada.
+- Nema mogućnosti za korištenje Discorda u offline načinu rada.
 
 ---
 
 ### 3. Potencijalni problemi s privatnošću 
 
-Podaci korisnika: 
+*Podaci korisnika:* 
 
--Discord zahtijeva određene osobne podatke za registraciju, uključujući e-mail adresu, što može biti zabrinjavajuće za korisnike koji se brinu o svojoj privatnosti.
+- Discord zahtijeva određene osobne podatke za registraciju, uključujući e-mail adresu, što može biti zabrinjavajuće za korisnike koji se brinu o svojoj privatnosti.
 
-Dijeljenje podataka: 
+*Dijeljenje podataka:* 
 
--Discord može dijeliti podatke s vanjskim partnerima (npr. u svrhu oglašavanja), iako nudi opcije za podešavanje privatnosti.
+- Discord može dijeliti podatke s vanjskim partnerima (npr. u svrhu oglašavanja), iako nudi opcije za podešavanje privatnosti.
 
 ### 4. Spam i neželjena pošta
 
-Neželjeni korisnici: 
+*Neželjeni korisnici:* 
 
 - Na velikim serverima možeš biti izložen spammerima ili trolovima, koji šalju neželjene poruke ili ometaju diskusiju. Iako se mogu postaviti filtri, spam i trolovi mogu biti problem, pogotovo na javnim serverima.
 
-Otvoreni pozivi: 
+*Otvoreni pozivi:* 
 
--Ako je server otvoren za javnost, možeš biti pozvan u neželjene servere ili razgovore.
+- Ako je server otvoren za javnost, možeš biti pozvan u neželjene servere ili razgovore.
 
 ### 5. Skriveni troškovi (Discord Nitro)
 
-Plaćeni planovi: 
+*Plaćeni planovi:* 
 
--Iako je osnovni Discord besplatan, mnoge napredne funkcije poput custom emotikona, većih limita za datoteke, ili boljeg kvaliteta video poziva zahtijevaju Discord Nitro, koji može biti skup za korisnike koji žele maksimalne mogućnosti.
+- Iako je osnovni Discord besplatan, mnoge napredne funkcije poput custom emotikona, većih limita za datoteke, ili boljeg kvaliteta video poziva zahtijevaju Discord Nitro, koji može biti skup za korisnike koji žele maksimalne mogućnosti.
 
 ---
 
