@@ -43,10 +43,14 @@ Serveri su vrste grupa u kojima veliki broj ljudi može komunicirati međusobno
 Kanali su sekcije u serverima koje možemo nazvati kako želimo, služe kako bi serveri izgledali urednije, te kako bi se bilo lakše snači, 
 npr. kanal za kodiranje
 
+---
+
 ### 3. Botovi
 -Discord podržava integraciju botova, koji mogu automatski obavljati različite zadatke, kao što su moderacija, sviranje muzike, obaveštavanje o događajima ili sprovodjenje anketa.
 
 ![](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/discord-bots1.jpg)
+
+---
 
 ![](https://support.discord.com/hc/article_attachments/4471411989015)
 
@@ -75,6 +79,8 @@ Pokreni instalacijski program:
 Ako nemaš račun, klikni na "Register" da stvoriš novi račun.
 
 ![image](https://github.com/user-attachments/assets/085a8320-cb84-4287-abea-6dd06abcde23)
+
+---
 
 ## 2. Instalacija Discorda na Android uređaj
 
@@ -118,6 +124,8 @@ Razni kanali:
 
 -Na svakom serveru možeš stvoriti različite tekstualne i glasovne kanale za specifične teme, čime se organizira komunikacija i omogućava bolja kontrola sadržaja.
 
+---
+
 ### 3. Zajednice i suradnja
 
 Velike zajednice:
@@ -158,6 +166,8 @@ Internet veza:
 Ne može se koristiti offline: 
 
 -Nema mogućnosti za korištenje Discorda u offline načinu rada.
+
+---
 
 ### 3. Potencijalni problemi s privatnošću 
 
