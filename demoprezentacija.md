@@ -11,6 +11,8 @@ Predmet: Akademsko i tehničko pisanje
 
 # 1. Uvod:
 
+![discord_logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-8nLmRaQCI67UhNtuc2SJGwecIeXkqt27w&s)
+
 ## 1. Kratak opis alata: 
 Discord je aplikacija za glasovni, video i tekstualni chat koju koriste deseci milijuna ljudi za razgovor i druženje sa svojim zajednicama i prijateljima. ona služi kako bi ljudi sa svih dijelova svijeta mogli međusobno komunicirati u vezi svega od poslovnih odluka, kodiranja, pa do  igrica i ostalih hobija.
 
@@ -44,6 +46,9 @@ npr. kanal za kodiranje
 ### 3. Botovi
 -Discord podržava integraciju botova, koji mogu automatski obavljati različite zadatke, kao što su moderacija, sviranje muzike, obaveštavanje o događajima ili sprovodjenje anketa.
 
+![](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/discord-bots1.jpg)
+
+![](https://support.discord.com/hc/article_attachments/4471411989015)
 
 ## 2. Praktični primjeri korištenja:
 1.  Igračke zajednice i timovi
@@ -67,7 +72,9 @@ Pokreni instalacijski program:
 3. Nakon što preuzmeš datoteku (obično će biti naziv DiscordSetup.exe), dvaput klikni na nju da pokreneš instalaciju.
 
 4. Ako već imaš Discord račun, jednostavno se prijavi s e-mailom i lozinkom.
-Ako nemaš račun, klikni na "Register" da stvoriš novi račun. 
+Ako nemaš račun, klikni na "Register" da stvoriš novi račun.
+
+![image](https://github.com/user-attachments/assets/085a8320-cb84-4287-abea-6dd06abcde23)
 
 ## 2. Instalacija Discorda na Android uređaj
 
@@ -78,6 +85,9 @@ Pretraži Discord i preuzmi aplikacju
 Prijava ili registracija:
 
 3. Unesi svoje prijavne podatke ili stvori novi račun ako još nemaš jedan
+
+![image](https://github.com/user-attachments/assets/ba3fb483-ad8a-40c2-8fe6-9a557741d9f7)
+
    
 ---
 
@@ -184,6 +194,9 @@ Plaćeni planovi:
 Discord je besplatna aplikacija, korisna za sve od zabave i hobija do rješavanja problema i poslovnih sastanaka.
 
 Osobno preporučavam Discord, osim ako želite slat videe, a nemate Nitro.
+
+![image](https://github.com/user-attachments/assets/a94c5775-3d3a-4c31-a9ff-7023527f523a)
+
 
 ---
 
